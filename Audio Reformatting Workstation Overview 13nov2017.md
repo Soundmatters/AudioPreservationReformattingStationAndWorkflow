@@ -1,17 +1,17 @@
 # Audio Reformatting Workstation   
 
 
-#Table of Contents
+# Table of Contents
 
 
 
-#Workstation Overview
+# Workstation Overview
 
-The CUNY TV Archive audio workstation is designed to carry out the preservation-reformatting of three obsolete physical audio carriers.  This reformatting includes signal exctraction from 1/4-inch open reel tape, analog cassette, and DAT, the conversion of the extracted analog signals (open-reel and cassette) to a digital bitstream, and the encoding of the bitstream to a file format.
+The CUNY TV Archive audio workstation is designed to carry out the preservation-reformatting of signal stored on three obsolete physical audio carriers.  This reformatting includes signal exctraction from 1/4-inch open reel tape, compact cassette, and DAT, the conversion of the extracted analog signals (open-reel and cassette) to a digital bitstream, and the encoding bitstreams to a file format.
 
 The following is an overview of the workstation's current technical capabilities:
 
-###Open-reel tape. 1/4-inch
+### Open-reel tape. 1/4-inch
 
 The current open-reel tape playback characteristics capabilities:  
 
@@ -27,9 +27,9 @@ Open-reel tape playback characteristics that may require additional equipment or
 * Dolby A, Dolby B, Dolby S, Dolby SR and DBX noise reduction encoded
 
 
-###Cassette
+### Compact Cassette
 
-The current cassette tape playback characteristics capabilities: 
+The current compact cassette tape playback characteristics capabilities: 
 
 * Quarter-track formatting.  
 * 1 7/8 tips speed.   
@@ -43,7 +43,7 @@ Cassette tape playback characteristics that may require additional equipment or 
 * DBX noise reduction.  
 
 
-###DAT
+### DAT
 
 Current DAT tape playback characteristics capabilities:  
 
@@ -71,13 +71,13 @@ Current capture and file encoding capabilities:
 * 8, 16, 11.052, 16, 22.05, 32, 44.1, 48, 64, 88.2, 96, 176.4, 192 k samle rate
 * .aif, .aiff, .aifc, .ape, .bwf, .flac, .mp2, .mp3, .mov, .ogg, .wav format
 
-###Monitoring 
+### Monitoring 
 
 
 
-##Workstation Diagram and Rack Elevation
+## Workstation Diagram and Rack Elevation
 
-##Power-up Order   
+## Power-up Order   
 
 To ensure safe operation of the equipment and proper connections between digital devices, power-up the equipment in the following order:
 
@@ -87,12 +87,12 @@ To ensure safe operation of the equipment and proper connections between digital
 2. Ampex Headpod 4 headphone amp.
 1. Mac.  
 
-##Deck Settings and Quality Assurance Check
+## Deck Settings and Quality Assurance Check
 
       
 
 
-###Open-reel deck
+### Open-reel deck
 
 The followng settings, and the quality assurance checklist, are for the Studer a80RC, s/n 5175
 
@@ -121,7 +121,7 @@ The followng settings, and the quality assurance checklist, are for the Studer a
 1. degause the erase, record, and reproduce heads, the capstan, the stationary posts, and roller guides  
 1. align the deck and confirm its functionality with a reference tape
 
-###Cassette deck
+### Cassette deck
 
 The followng settings, and the quality assurance checklist, are for the Tascam 122MKIII, s/n 8900215 983
 
@@ -148,7 +148,7 @@ The followng settings, and the quality assurance checklist, are for the Tascam 1
 1. degause the the erase and record/reproduce head, and the capstan  
 1. align the deck and confirm its functionality with a reference tape
 
-###Analog to Digital Converter.  
+### Analog to Digital Converter.  
 
 The followng settings are for the Lynx Aurora 8, s/n 2714092190
 
@@ -178,7 +178,7 @@ Digital I/O.
 
 *These Digital I/O settings can be configured via the Mac utility Audio Devices (Utilities > Audio MIDI Setup), or via the Adobe Audition preferences (Adobe Audition CC > Preferences > Audio Hardware).
 
-###Computer
+### Computer
 
 The followng settings are for the Mac OS Sierra v10.12, s/n C02NW4V8FY14
 
@@ -199,7 +199,7 @@ Lynx Aurora, Input:  Set FORMAT to 96,000 Hz for analog sources; align with te s
  
 
 
-###Digital Audio Workstation.  
+### Digital Audio Workstation.  
 
 The followng settings are for the Adobe Audition CC, 2017.1.1 release
 
@@ -214,7 +214,7 @@ Spectral Displays.
 * settings to be alligned with the media
 * quality assurance  
 
-###Headphone amp.  
+### Headphone amp.  
 
 The followng settings are for the Aphex Headpod 4, s/n 1450
 
@@ -228,13 +228,13 @@ The followng settings are for the Aphex Headpod 4, s/n 1450
 1. Input Select:  Set to ANALOG 2 to monitor the headphone output of deck being used
 1. Output 1:  Adjust OUTPUT 1 monitoring level as needed
 
-##Physical Treatment of the Archive Original Recording
+## Physical Treatment of the Archive Original Recording
 
 To assure optimal signal extraction from the archive original recording, and the protection and viability of the media and the playback deck, media is checked for conditions that may require treatment prior to transfer.   
 
 Treatments are guided by the AIC Code of Ethics and Guidelines for Practice. [GET. THE LINK]
 
-###Cassette: checklist of common conditions and treatments.   
+### Cassette: checklist of common conditions and treatments.   
 
 1. Particulate matter (dust, dirt, etc.):   Surface clean with compressed air, vacuum, non-woven tissue or dry brushes.  
 1. Biological contamination (mold, infestations, etc.) :  Stop and alert the Archivist if biological contamination is discovered.  This condition may require out-sourcing for remediation.   
@@ -249,7 +249,7 @@ Treatments are guided by the AIC Code of Ethics and Guidelines for Practice. [GE
 1. Record disable :  Remove record-enable tabs from the shell.  
 
 
-###Open-reel: checklist of common conditions and treatments.
+### Open-reel: checklist of common conditions and treatments.
 
 1. Particulate matter (dust, dirt, etc.):   Surface clean with compressed air, vacuum, non-woven tissue or dry brushes.
 1. Biological contamination (mold, infestations, etc.):  Stop and alert the Archivist if biological contamination is discovered.  This condition may require out-sourcing for remediation.   
@@ -263,22 +263,51 @@ Treatments are guided by the AIC Code of Ethics and Guidelines for Practice. [GE
 1. Print-through: Fast head-to-tail wind, fast tail-to-head wind.  
 2. Vinegar Syndrome:  Stop and alert the Archivist if Vinegar Syndrome is discovered.  This condition may require out-sourcing for remediation.   
 
-###DAT.  
+### DAT.  
 
 TBD
 
-##Audio Preservation Master File Specifications
+## Audio Preservation Master File Specifications
 
-The Audio Preservation Master File is the highest-level digital derivative of an archive original recording.  It is produced to represent a complete and unmodified copy of the archive original recording's signal, and so is produced free of signal processing, editing, equalization, level adjustment, and sonic restoration.###The Audio Preservation Master File production will: * represent the complete recorded content of the archive original recording, including the principle program content, any and all unidentified and undocumented content, calibration tones, and any and all pre and post-program ambient sound.* represent the complete dynamic and frequency range of the archive original recording* be produced de-emphasising any noise reduction system inherant in the signal (Dolby A, B, etc.).   
-* be produced de-emphasising any equalization system inherant in the signal (Type I, II, etc.). * be produced to comply with the technical recommendations, practices and strategies outlined in the International Association of Audiovisual Archives’, Guidelines on the Production and Preservation of Digital Audio Objects, IASA-TC 04, 2nd edition###Audio Preservation Master Files will be produced using the following file specs:For the reformatting of analog archive original recordings.   
- * WAV file format [YES?].  * 96k sample rate.  * 24 bit depth.  * One or two-channel file as appropriate [yes?].  For the reformatting of digital archive original recordings.  
-* WAV file format [YES?].  * Sample rate equal to the archive original recording’s sample rate[yes?]   * Bit depth equal to the archive original recording’s bit depth [yes?]  * One or two-channel file as appropriate [yes?]###Audio Preservation Master Files will be named using the following convention:* Format identifier + Face identifier + Region identifier (optional as needed) + file extension	Example:	HBG00006_01.wav
+The Audio Preservation Master File is the highest-level digital derivative of an archive original recording.  It is produced to represent a complete and unmodified copy of the archive original recording's signal, and so is produced free of signal processing, editing, equalization, level adjustment, and sonic restoration.
 
-##Audio Preservation Master File (digi-prov?) Metadata
+### The Audio Preservation Master File production will: 
 
-The following metadata is created for each Audio Preservation Master file to document technical aspects of the Archive Original Recording and the reformatting process and to provide provenance for the Audio Preservation Master file.
+* represent the complete recorded content of the archive original recording, including the principle program content, any and all unidentified and undocumented content, calibration tones, and any and all pre and post-program ambient sound.
+* represent the complete dynamic and frequency range of the archive original recording
+* be produced de-emphasising any noise reduction system inherant in the signal (Dolby A, B, etc.).   
+* be produced de-emphasising any equalization system inherant in the signal (Type I, II, etc.). 
+* be produced to comply with the technical recommendations, practices and strategies outlined in the International Association of Audiovisual Archives’, Guidelines on the Production and Preservation of Digital Audio Objects, IASA-TC 04, 2nd edition
 
-###Archive Original Recording Description.  
+
+### Audio Preservation Master Files will be produced using the following file specs:
+
+For the reformatting of **analog** archive original recordings.   
+ 
+* BWF file.  
+* 96k sample rate.  
+* 24 bit depth.  
+* One or two-channel file as appropriate [yes?].  
+
+For the reformatting of **digital** archive original recordings.  
+
+* BWF file [YES?].  
+* Sample rate equal to the archive original recording’s sample rate[yes?]   
+* Bit depth equal to the archive original recording’s bit depth [yes?]  
+* One or two-channel file as appropriate [yes?]
+
+
+### Audio Preservation Master Files will be named using the following convention:
+
+* Format identifier + Face identifier + Region identifier (optional as needed) + file extension
+
+	Example:	HBG00006_01.wav
+
+## Audio Preservation Master File (digi-prov?) Metadata
+
+The following metadata is created for each Audio Preservation Master file to document technical aspects of the Archive Original Recording and the reformatting processes to provide provenance for the Audio Preservation Master file.
+
+### Archive Original Recording Description.  
 
 * Stock Manufacturer  
 * Stock Number  
@@ -307,12 +336,48 @@ The following metadata is created for each Audio Preservation Master file to doc
 * Converter Level Calibration
 
 
-##Audio [Presentation] Master File SpecificationsThe Audio [Presentation] Master file is a digital reconstruction of an original asset.  It is produced from one or more Audio Preservation Master files, and is created to reconstruct an asset, optimize program continuity, provide access to the asset, and to correct excessive sonic distortion in the original signal.  The Audio [Presentation] Master file is not necessarily a full restoration. [FIX THIS}The Audio [Presentation] Master will contain:
-* Edit of head, tail, or internal sections of the file, to eliminate portions of the Audio Preservation Master file with no program content [fix this]. * Level/Loudness adjustment to offset any channel discrepancies, and to normalize the overall amplitude to -2dBFS.The Audio [Presentation] Master may contain:
-* File joins, to reconstruct a program when an asset has two or more Audio Preservation Master files*  Sum to mono [only for lateral disc that were reformatted in the “stereo” mode]* Channel balance, as needed* De-click/de-crackle processing, only as needed* Broadband Noise reduction processing, only for extreme cases of broadband distortion* EQ processing, only to eliminate extreme grounding distortion, rumble or other signal anomalies that impede listenability [is that a word?]* Speed correction as needed* Phase/polarity correction as neededAudio [Access] Master files will be produced using the following file specs:For reformatted analog archive original recordings:
-* WAV file format* 48k sample rate* 24 bit depth* One or two-channel file as appropriate [yes?]For reformatted digital archive original recordings: 
-* WAV file format* Sample rate equal to the archive original recording’s sample rate [yes?]* Bit depth equal to the archive original recording’s bit depth [yes?]* One or two-channel file as appropriate [yes?]Audio [Presentation]  Master files will be named using the following convention:
-•	Asset identifier + file extension.  Example:		BSW19390403.wavAudio [Presentation] Master Files will contain the [following metadata] embedded in the [?]
+##Audio [Presentation] Master File Specifications
+
+
+The Audio [Presentation] Master file is a digital reconstruction of an original asset.  It is produced from one or more Audio Preservation Master files, and is created to reconstruct an asset, optimize program continuity, provide access to the asset, and to correct excessive sonic distortion in the original signal.  The Audio [Presentation] Master file is not necessarily a full restoration. [FIX THIS}
+
+The Audio [Presentation] Master will contain:
+
+* Edit of head, tail, or internal sections of the file, to eliminate portions of the Audio Preservation Master file with no program content [fix this]. 
+* Level/Loudness adjustment to offset any channel discrepancies, and to normalize the overall amplitude to -2dBFS.
+
+The Audio [Presentation] Master may contain:
+
+* File joins, to reconstruct a program when an asset has two or more Audio Preservation Master files
+*  Sum to mono [only for lateral disc that were reformatted in the “stereo” mode]
+* Channel balance, as needed
+* De-click/de-crackle processing, only as needed
+* Broadband Noise reduction processing, only for extreme cases of broadband distortion
+* EQ processing, only to eliminate extreme grounding distortion, rumble or other signal anomalies that impede listenability [is that a word?]
+* Speed correction as needed
+* Phase/polarity correction as needed
+
+Audio [Access] Master files will be produced using the following file specs:
+
+For reformatted analog archive original recordings:
+
+* WAV file format
+* 48k sample rate
+* 24 bit depth
+* One or two-channel file as appropriate [yes?]
+
+For reformatted digital archive original recordings: 
+
+* WAV file format
+* Sample rate equal to the archive original recording’s sample rate [yes?]
+* Bit depth equal to the archive original recording’s bit depth [yes?]
+* One or two-channel file as appropriate [yes?]
+
+Audio [Presentation]  Master files will be named using the following convention:
+
+•	Asset identifier + file extension.  Example:		BSW19390403.wav
+
+Audio [Presentation] Master Files will contain the [following metadata] embedded in the [?]
 
 ## Reformatting Workflows
 
