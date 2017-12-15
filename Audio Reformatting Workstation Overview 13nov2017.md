@@ -189,7 +189,7 @@ Input: Set to LYNX AURORA USB.
 Output: Set to HEADPHONES HEADPHONE PORT.  
 
 1. Audio devices (Utilities > Audio Devices).    
-
+! {midi in] (https://github.com/DannyCuny/AudioPreservationReformattingStationAndWorkflow/blob/master/midi_lynx_in.png)
 
 Built-in Output, Output: Set FORMAT to 2 CH 24-BIT Integer 96.0 KHZ.  [REVISE THIS]   
  
