@@ -7,13 +7,13 @@
 
 # Workstation Overview
 
-The CUNY TV Archive audio workstation is designed to carry out the preservation-reformatting of the audio signal stored on three obsolete media types: 1/4-inch open reel tape, compact cassette, and DAT. The workstation also converts the extracted analog signals (open-reel and cassette) to a digital bitstream, and captures and encodesthe bitstream to a file format.  
+The CUNY TV Archive audio workstation is designed to carry out the preservation-reformatting of the audio signal stored on three obsolete media types: 1/4-inch open reel tape, compact cassette, and DAT. The workstation also converts the extracted analog signals (open-reel and cassette) to a digital bitstream, and captures and encodes bitstreams as file formats.  
 
 # Current Capabilities
 
 The following is an overview of the workstation's technical capabilities:
 
-### Open-reel tape. 1/4-inch
+### Open-reel tape, 1/4-inch
 
 The current open-reel tape playback characteristics capabilities:  
 
@@ -73,7 +73,13 @@ Current capture and file encoding capabilities:
 * 8, 16, 11.052, 16, 22.05, 32, 44.1, 48, 64, 88.2, 96, 176.4, 192 k samle rate
 * .aif, .aiff, .aifc, .ape, .bwf, .flac, .mp2, .mp3, .mov, .ogg, .wav format
 
-### Monitoring 
+### Monitoring. 
+
+All monitoring is done with headphones, with options to monitor three separate stages of the audio signal chain:
+
+* Lynx Aurora 8 Analog output
+* Playback deck Analog output (via the headphone jack)
+* Lynx Aroroa 8 Digital output
 
 
 
