@@ -7,9 +7,11 @@
 
 # Workstation Overview
 
-The CUNY TV Archive audio workstation is designed to carry out the preservation-reformatting of signal stored on three obsolete physical audio carriers.  This reformatting includes signal exctraction from 1/4-inch open reel tape, compact cassette, and DAT, the conversion of the extracted analog signals (open-reel and cassette) to a digital bitstream, and the encoding bitstreams to a file format.
+The CUNY TV Archive audio workstation is designed to carry out the preservation-reformatting of the audio signal stored on three obsolete media types: 1/4-inch open reel tape, compact cassette, and DAT. The workstation also converts the extracted analog signals (open-reel and cassette) to a digital bitstream, and captures and encodesthe bitstream to a file format.  
 
-The following is an overview of the workstation's current technical capabilities:
+# Current Capabilities
+
+The following is an overview of the workstation's technical capabilities:
 
 ### Open-reel tape. 1/4-inch
 
@@ -32,7 +34,7 @@ Open-reel tape playback characteristics that may require additional equipment or
 The current compact cassette tape playback characteristics capabilities: 
 
 * Quarter-track formatting.  
-* 1 7/8 tips speed.   
+* 1 7/8 ips speed.   
 * Dolby B and Dolby C noise reduction encoded.   
 * Type I, Type II (III) , Type IV equalization pre-emphasis
 
@@ -53,7 +55,7 @@ DAT tape playback characteristics that will require additional equipment or outs
 
 TBD
 
-###Analog to Digital Conversion
+### Analog to Digital Conversion
 
 
 Current analog signal to digital bitstream conversion capabilities:
@@ -62,7 +64,7 @@ Current analog signal to digital bitstream conversion capabilities:
 * 44.1, 48, 88.2, 96, 176.4, 192 kHz sample rate
 
 
-###Capture and File encoding
+### Capture and File encoding
 
 Current capture and file encoding capabilities:   
 
@@ -76,10 +78,11 @@ Current capture and file encoding capabilities:
 
 
 ## Workstation Diagram and Rack Elevation
+ADD IMAGE
 
 ## Power-up Order   
 
-To ensure safe operation of the equipment and proper connections between digital devices, power-up the equipment in the following order:
+To ensure safe operation of the equipment and the proper connections between digital devices, power-up the equipment in the following order:
 
 1. Furman power conditioner.  
 1. Lynx Aurora 8 ad/da converter.  
@@ -89,7 +92,9 @@ To ensure safe operation of the equipment and proper connections between digital
 
 ## Deck Settings and Quality Assurance Check
 
-      
+The following is a review of the settings for each device in the workstation.  It covers two types of settings: 1) Default, which are permanent and do not require adjustment, and 2) Alligned, which are adjusted to accomodate the recording charecteristics of each object being reformatted.
+
+This section also contains a quality assurance checklist to help assure that each device is operating properly.
 
 
 ### Open-reel deck
@@ -189,7 +194,6 @@ Input: Set to LYNX AURORA USB.
 Output: Set to HEADPHONES HEADPHONE PORT.  
 
 1. Audio devices (Utilities > Audio Devices).    
-! {midi in] (https://github.com/DannyCuny/AudioPreservationReformattingStationAndWorkflow/blob/master/midi_lynx_in.png)
 
 Built-in Output, Output: Set FORMAT to 2 CH 24-BIT Integer 96.0 KHZ.  [REVISE THIS]   
  
