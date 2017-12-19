@@ -7,7 +7,7 @@
 
 # Workstation Overview
 
-The CUNY TV Archive audio workstation is designed to carry out the preservation-reformatting of the audio signal on three obsolete media types: 1/4-inch open-reel tape, compact cassette, and DAT. The proccesses it performs include playback, analog to digital conversion, bitstream capture, and file encoding.  
+The CUNY TV Archive audio workstation is designed to carry out the preservation-reformatting of the audio signal on three obsolete media types: 1/4-inch open-reel tape, compact cassette, and DAT. The proccesses it performs include playback, analog to digital conversion, bitstream capture, file encoding, and metadata related to digital provenance.  
 
 # Current Capabilities
 
@@ -83,8 +83,10 @@ Current monitoring capabilities include selectable audio at three stages of the 
 
 
 
-## Workstation Diagram and Rack Elevation
-ADD IMAGE
+## Workstation Diagram and Rack Elevation.  
+
+The following diagrams illustrate the workstation equipment, signalflow, connections, and cables.
+ADD IMAGES
 
 ## Power-up Order   
 
@@ -330,7 +332,7 @@ The following metadata is created for each Audio Preservation Master file to doc
 * Treatment Summary   
 
 
-###Playback Deck and Deck Settings Description.  
+### Playback Deck and Deck Settings Description.  
 
 * Deck Model and Serial Number  
 * Deck Speed Setting  
@@ -340,7 +342,7 @@ The following metadata is created for each Audio Preservation Master file to doc
 * Deck Operating Level Setting 
 
 
-###Converter and Converter Settings Description.  
+### Converter and Converter Settings Description.  
 
 * Converter Model and Serial Number  
 * Converter Clock Setting   
@@ -348,7 +350,7 @@ The following metadata is created for each Audio Preservation Master file to doc
 * Converter Level Calibration
 
 
-##Audio [Presentation] Master File Specifications
+## Audio [Presentation] Master File Specifications
 
 
 The Audio [Presentation] Master file is a digital reconstruction of an original asset.  It is produced from one or more Audio Preservation Master files, and is created to reconstruct an asset, optimize program continuity, provide access to the asset, and to correct excessive sonic distortion in the original signal.  The Audio [Presentation] Master file is not necessarily a full restoration. [FIX THIS}
@@ -395,20 +397,20 @@ Audio [Presentation] Master Files will contain the [following metadata] embedded
 
 
 
-###Barcode
+### Barcode
 
-###Photo documentation. 
+### Photo documentation. 
 
-###Media treatment checklist
+### Media treatment checklist
 
-###Signalflow and equipment connections
+### Signalflow and equipment connections
 
-###Equipment settings and alignment
+### Equipment settings and alignment
 
-###File production specifications 
+### File production specifications 
 
-###Metadata
+### Metadata
 
-###Region marker for the [Presentation] master.  
+### Region marker for the [Presentation] master.  
 label marker, "presentation"
 
