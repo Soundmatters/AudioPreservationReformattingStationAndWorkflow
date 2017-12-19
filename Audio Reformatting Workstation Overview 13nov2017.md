@@ -7,7 +7,7 @@
 
 # Workstation Overview
 
-The CUNY TV Archive audio workstation is designed to carry out the preservation-reformatting of the audio signal stored on three obsolete media types: 1/4-inch open reel tape, compact cassette, and DAT. The workstation also converts the extracted analog signals (open-reel and cassette) to a digital bitstream, and captures and encodes bitstreams as file formats.  
+The CUNY TV Archive audio workstation is designed to carry out the preservation-reformatting of the audio signal on three obsolete media types: 1/4-inch open-reel tape, compact cassette, and DAT. The proccesses it performs include playback, analog to digital conversion, bitstream capture, and file encoding.  
 
 # Current Capabilities
 
@@ -15,7 +15,7 @@ The following is an overview of the workstation's technical capabilities:
 
 ### Open-reel tape, 1/4-inch
 
-The current open-reel tape playback characteristics capabilities:  
+Open-reel tape current playback capabilities:  
 
 * Two-track and half-track formatting.  
 * 7 1/2 and 15 ips speeds.  
@@ -31,14 +31,14 @@ Open-reel tape playback characteristics that may require additional equipment or
 
 ### Compact Cassette
 
-The current compact cassette tape playback characteristics capabilities: 
+Compact cassette current playback capabilities:  
 
 * Quarter-track formatting.  
 * 1 7/8 ips speed.   
 * Dolby B and Dolby C noise reduction encoded.   
 * Type I, Type II (III) , Type IV equalization pre-emphasis
 
-Cassette tape playback characteristics that may require additional equipment or outsourcing:    
+Compact Cassette tape playback characteristics that may require additional equipment or outsourcing:    
 
 * Half-track and four-track formatting.  
 * 3 3/4 ips speed.  
@@ -47,11 +47,11 @@ Cassette tape playback characteristics that may require additional equipment or 
 
 ### DAT
 
-Current DAT tape playback characteristics capabilities:  
+DAT current playback capabilities:   
 
 TBD
 
-DAT tape playback characteristics that will require additional equipment or outsourcing:    
+DAT playback characteristics that will require additional equipment or outsourcing:    
 
 TBD
 
@@ -75,7 +75,7 @@ Current capture and file encoding capabilities:
 
 ### Monitoring. 
 
-All monitoring is done with headphones, with options to monitor three separate stages of the audio signal chain:
+Current monitoring capabilities include selectable audio at three stages of the signal chain:
 
 * Lynx Aurora 8 Analog output
 * Playback deck Analog output (via the headphone jack)
@@ -116,8 +116,8 @@ The followng settings, and the quality assurance checklist, are for the Studer a
 
 * Deck settings to be alligned with the media
 
-1. VU panel: Channel 1 UNCAL switch in the ON position (pressed in) and aligned with the source
-1. VU panel: Channel 2 UNCAL switch in the ON position (pressed in) and aligned with the source
+1. VU panel: Channel 1 UNCAL switch in the ON position (in) and aligned with the source
+1. VU panel: Channel 2 UNCAL switch in the ON position (in) and aligned with the source
 1. VU panel: Monitor section (right side of the VU panel) CH1/CH1-2/CH2 switches aligned with the source. 
 1. Transport panel: SPEED switch (OFF-7 1/2-15) aligned with source. 
 1. Transport panel: Press 0 to to zero-out the counter before the start of playback for each side of a reel to align with the source.  
