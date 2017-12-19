@@ -323,31 +323,31 @@ The following metadata is created for each Audio Preservation Master file to doc
 
 ### Archive Original Recording Description.  
 
-* Stock Manufacturer  
-* Stock Number  
-* Speed  
-* Track Configuration  
-* Soundfield    
-* Condition Summary
-* Treatment Summary   
+* object stock manufacturer  
+* object stock number  
+* object speed 
+* object track configuration  
+* object soundfield   
+* object condition summary
+* object treatment summary 
 
 
 ### Playback Deck and Deck Settings Description.  
 
-* Deck Model and Serial Number  
-* Deck Speed Setting  
-* Deck Head Setting  
-* Deck EQ Setting  
-* Deck Noise Reduction Setting  
-* Deck Operating Level Setting 
+* deck model and sn 
+* deck speed setting 
+* deck head setting 
+* deck eq setting  
+* deck noise reduction setting  
+* deck operating level setting
 
 
 ### Converter and Converter Settings Description.  
 
-* Converter Model and Serial Number  
-* Converter Clock Setting   
-* Converter Sample Rate Setting  
-* Converter Level Calibration
+* adda converter model and sn  
+* adda converter clock setting  
+* adda converter sr setting  
+* adda converter level calibration setting
 
 
 ## Audio [Presentation] Master File Specifications
