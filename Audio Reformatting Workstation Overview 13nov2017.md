@@ -58,7 +58,7 @@ TBD
 ### Analog to Digital Conversion
 
 
-Current analog signal to digital bitstream conversion capabilities:
+Current analog to digital bitstream conversion capabilities:
 
 * 24 bit depth
 * 44.1, 48, 88.2, 96, 176.4, 192 kHz sample rate
@@ -83,7 +83,7 @@ Current monitoring capabilities include selectable audio at three stages of the 
 
 
 
-## Workstation Diagram and Rack Elevation.  
+## Workstation Diagram, Rack Elevation and Connections.  
 
 The following diagrams illustrate the workstation equipment, signalflow, connections, and cables.
 ADD IMAGES
@@ -182,6 +182,7 @@ Digital I/O
 1. LSLOT RECORD 1-8 SOURCE: Set to ANALOG IN 1-8  
 
 * settings to be alligned with the media
+ADD IMAGE
 
 Digital I/O.  
 
@@ -190,6 +191,8 @@ Digital I/O.
 1. Meter SOURCE: align for Analog or Digital sources.  
 
 *These Digital I/O settings can be configured via the Mac utility Audio Devices (Utilities > Audio MIDI Setup), or via the Adobe Audition preferences (Adobe Audition CC > Preferences > Audio Hardware).
+ADD IMAGE
+
 
 ### Computer
 
@@ -199,9 +202,12 @@ The followng settings are for the Mac OS Sierra v10.12, s/n C02NW4V8FY14
 
 1. System Preferences > Sound.     
 Input: Set to LYNX AURORA USB.  
-Output: Set to HEADPHONES HEADPHONE PORT.  
+Output: Set to    FIX THIS.    
+
+ADD IMAGE
 
 1. Audio devices (Utilities > Audio Devices).    
+
 
 Built-in Output, Output: Set FORMAT to 2 CH 24-BIT Integer 96.0 KHZ.  [REVISE THIS]   
  
@@ -319,7 +325,7 @@ For the reformatting of **digital** archive original recordings.
 
 ## Audio Preservation Master File (digi-prov?) Metadata
 
-The following metadata is created for each Audio Preservation Master file to document technical aspects of the Archive Original Recording and the reformatting processes to provide provenance for the Audio Preservation Master file.
+The following metadata is created for each Audio Preservation Master file to document technical aspects of the Archive Original Recording and the reformatting processes.
 
 ### Archive Original Recording Description.  
 
