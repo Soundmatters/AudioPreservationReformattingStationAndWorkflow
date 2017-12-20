@@ -293,7 +293,7 @@ The Audio Preservation Master File is the highest-level digital derivative of an
 
 ### The Audio Preservation Master File production will: 
 
-* represent the complete recorded content of the archive original recording, including the principle program content, any and all unidentified and undocumented content, calibration tones, and any and all pre and post-program ambient sound.
+* represent the complete recorded content of the archive original recording, including the principal program content, any and all unidentified and undocumented content, calibration tones, and any and all pre and post-program ambient sound.
 * represent the complete dynamic and frequency range of the archive original recording
 * be produced de-emphasising any noise reduction system inherant in the signal (Dolby A, B, etc.).   
 * be produced de-emphasising any equalization system inherant in the signal (Type I, II, etc.). 
