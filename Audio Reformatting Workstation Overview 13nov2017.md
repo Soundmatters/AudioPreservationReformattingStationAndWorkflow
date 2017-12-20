@@ -83,12 +83,12 @@ Current monitoring capabilities include selectable audio at three stages of the 
 
 
 
-## Workstation Diagram, Rack Elevation and Connections.  
+# Workstation Diagram, Rack Elevation and Connections.  
 
 The following diagrams illustrate the workstation equipment, signalflow, connections, and cables.
 ADD IMAGES
 
-## Power-up Order   
+# Power-up Order   
 
 To ensure safe operation of the equipment and the proper connections between digital devices, power-up the equipment in the following order:
 
@@ -98,7 +98,7 @@ To ensure safe operation of the equipment and the proper connections between dig
 2. Ampex Headpod 4 headphone amp.
 1. Mac.  
 
-## Deck Settings and Quality Assurance Check
+# Deck Settings and Quality Assurance Check
 
 The following is a review of the settings for each device in the workstation.  It covers two types of settings: 1) Default, which are permanent and do not require adjustment, and 2) Alligned, which are adjusted to accomodate the recording charecteristics of each object being reformatted.
 
@@ -248,7 +248,7 @@ The followng settings are for the Aphex Headpod 4, s/n 1450
 1. Input Select:  Set to ANALOG 2 to monitor the headphone output of deck being used
 1. Output 1:  Adjust OUTPUT 1 monitoring level as needed
 
-## Physical Treatment of the Archive Original Recording
+# Physical Treatment of the Archive Original Recording
 
 To assure optimal signal extraction from the archive original recording, and the protection and viability of the media and the playback deck, media is checked for conditions that may require treatment prior to transfer.   
 
@@ -287,7 +287,7 @@ Treatments are guided by the AIC Code of Ethics and Guidelines for Practice. [GE
 
 TBD
 
-## Audio Preservation Master File Specifications
+# Audio Preservation Master File Specifications
 
 The Audio Preservation Master File is the highest-level digital derivative of an archive original recording.  It is produced to represent a complete and unmodified copy of the archive original recording's signal, and so is produced free of signal processing, editing, equalization, level adjustment, and sonic restoration.
 
@@ -300,7 +300,7 @@ The Audio Preservation Master File is the highest-level digital derivative of an
 * be produced to comply with the technical recommendations, practices and strategies outlined in the International Association of Audiovisual Archives’, Guidelines on the Production and Preservation of Digital Audio Objects, IASA-TC 04, 2nd edition
 
 
-### Audio Preservation Master Files will be produced using the following file specs:
+### Audio Preservation Master Files will be produced using the following file specifications:
 
 For the reformatting of **analog** archive original recordings.   
  
@@ -320,7 +320,7 @@ For the reformatting of **digital** archive original recordings.
 
 
 
-## Audio [Presentation] Master File Specifications. (FIX ALL OF THIS SECTION)
+# Audio [Presentation] Master File Specifications. (FIX ALL OF THIS SECTION)
 
 
 The Audio [Presentation] Master file is a digital reconstruction of an original asset.  It is produced from one or more Audio Preservation Master files, and is created to reconstruct an asset, optimize program continuity, provide access to the asset, and to correct excessive sonic distortion in the original signal.  The Audio [Presentation] Master file is not necessarily a full restoration. [FIX THIS}
@@ -377,7 +377,7 @@ Audio [Presentation] Master Files will contain the [following metadata] embedded
 
 # Metadata
 
-## Audio Preservation Master File (digi-prov?) Metadata
+#3# Audio Preservation Master File (digi-prov?) Metadata
 
 The following metadata is created for each Audio Preservation Master file to document technical aspects of the Archive Original Recording and the reformatting processes.
 
