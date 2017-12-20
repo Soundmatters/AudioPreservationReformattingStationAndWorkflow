@@ -75,7 +75,7 @@ Current capture and file encoding capabilities:
 
 ### Monitoring. 
 
-Current monitoring capabilities include selectable audio at three stages of the signal chain:
+Current monitoring capabilities include selectable audio at three stages of the signal chain via a headphone amplifier:
 
 * Lynx Aurora 8 Analog output
 * Playback deck Analog output (via the headphone jack)
@@ -317,11 +317,65 @@ For the reformatting of **digital** archive original recordings.
 * One or two-channel file as appropriate [yes?]
 
 
+
+
+
+## Audio [Presentation] Master File Specifications. (FIX ALL OF THIS SECTION)
+
+
+The Audio [Presentation] Master file is a digital reconstruction of an original asset.  It is produced from one or more Audio Preservation Master files, and is created to reconstruct an asset, optimize program continuity, provide access to the asset, and to correct excessive sonic distortion in the original signal.  The Audio [Presentation] Master file is not necessarily a full restoration. [FIX THIS}
+
+The Audio [Presentation] Master will contain:
+
+* Edit of head, tail, or internal sections of the file, to eliminate portions of the Audio Preservation Master file with no program content [fix this]. 
+* Level/Loudness adjustment to offset any channel discrepancies, and to normalize the overall amplitude to -2dBFS.
+
+The Audio [Presentation] Master may contain:
+
+* File joins, to reconstruct a program when an asset has two or more Audio Preservation Master files
+*  Sum to mono [only for lateral disc that were reformatted in the “stereo” mode]
+* Channel balance, as needed
+* De-click/de-crackle processing, only as needed
+* Broadband Noise reduction processing, only for extreme cases of broadband distortion
+* EQ processing, only to eliminate extreme grounding distortion, rumble or other signal anomalies that impede listenability [is that a word?]
+* Speed correction as needed
+* Phase/polarity correction as needed
+
+Audio [Access] Master files will be produced using the following file specs:
+
+For reformatted analog archive original recordings:
+
+* WAV file format
+* 48k sample rate
+* 24 bit depth
+* One or two-channel file as appropriate
+
+For reformatted digital archive original recordings: 
+
+* WAV file format
+* Sample rate equal to the archive original recording’s sample rate [yes?]
+* Bit depth equal to the archive original recording’s bit depth [yes?]
+* One or two-channel file as appropriate [yes?]
+
+
+Audio [Presentation] Master Files will contain the [following metadata] embedded in the [?]
+
+# File-naming conventions.  
+
 ### Audio Preservation Master Files will be named using the following convention:
 
 * Format identifier + Face identifier + Region identifier (optional as needed) + file extension
 
 	Example:	HBG00006_01.wav
+
+
+### Audio Presentation Master files will be named using the following convention:
+
+•	Asset identifier + file extension.  Example:		BSW19390403.wav
+
+
+
+# Metadata
 
 ## Audio Preservation Master File (digi-prov?) Metadata
 
@@ -355,49 +409,6 @@ The following metadata is created for each Audio Preservation Master file to doc
 * adda converter sr setting  
 * adda converter level calibration setting
 
-
-## Audio [Presentation] Master File Specifications
-
-
-The Audio [Presentation] Master file is a digital reconstruction of an original asset.  It is produced from one or more Audio Preservation Master files, and is created to reconstruct an asset, optimize program continuity, provide access to the asset, and to correct excessive sonic distortion in the original signal.  The Audio [Presentation] Master file is not necessarily a full restoration. [FIX THIS}
-
-The Audio [Presentation] Master will contain:
-
-* Edit of head, tail, or internal sections of the file, to eliminate portions of the Audio Preservation Master file with no program content [fix this]. 
-* Level/Loudness adjustment to offset any channel discrepancies, and to normalize the overall amplitude to -2dBFS.
-
-The Audio [Presentation] Master may contain:
-
-* File joins, to reconstruct a program when an asset has two or more Audio Preservation Master files
-*  Sum to mono [only for lateral disc that were reformatted in the “stereo” mode]
-* Channel balance, as needed
-* De-click/de-crackle processing, only as needed
-* Broadband Noise reduction processing, only for extreme cases of broadband distortion
-* EQ processing, only to eliminate extreme grounding distortion, rumble or other signal anomalies that impede listenability [is that a word?]
-* Speed correction as needed
-* Phase/polarity correction as needed
-
-Audio [Access] Master files will be produced using the following file specs:
-
-For reformatted analog archive original recordings:
-
-* WAV file format
-* 48k sample rate
-* 24 bit depth
-* One or two-channel file as appropriate [yes?]
-
-For reformatted digital archive original recordings: 
-
-* WAV file format
-* Sample rate equal to the archive original recording’s sample rate [yes?]
-* Bit depth equal to the archive original recording’s bit depth [yes?]
-* One or two-channel file as appropriate [yes?]
-
-Audio [Presentation]  Master files will be named using the following convention:
-
-•	Asset identifier + file extension.  Example:		BSW19390403.wav
-
-Audio [Presentation] Master Files will contain the [following metadata] embedded in the [?]
 
 ## Reformatting Workflows
 
