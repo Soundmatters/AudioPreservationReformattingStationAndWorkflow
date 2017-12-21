@@ -85,8 +85,15 @@ Current monitoring capabilities include selectable audio at three stages of the 
 
 # Workstation Diagram, Rack Elevation and Connections.  
 
-The following diagrams illustrate the workstation equipment, signalflow, connections, and cables.
-ADD IMAGES
+The following diagrams illustrate the workstation equipment, signalflow, connections, and cables.   
+
+Workstation connections and signalflow.  
+
+![]().  
+
+Rack elevation, deck and headphone amp.  
+
+![]()
 
 # Power-up Order   
 
@@ -136,7 +143,14 @@ The followng settings, and the quality assurance checklist, are for the Studer a
 
 ### Cassette deck
 
-The followng settings, and the quality assurance checklist, are for the Tascam 122MKIII, s/n 8900215 983
+The followng settings, and the quality assurance checklist, are for the Tascam 122MKIII, s/n 8900215 983. 
+  
+Front panel.  
+![](). 
+  
+  
+Rear panel.  
+![]()
 
 * Default deck settings
 
@@ -160,7 +174,16 @@ The followng settings, and the quality assurance checklist, are for the Tascam 1
 1. dust the transport with compressed air  
 1. degause the the erase and record/reproduce head, and the capstan  
 1. align the deck and confirm its functionality with a reference tape
+  
+  
+### DAT deck.  
 
+Front panel.  
+![](). 
+  
+  
+Rear panel.  
+![]()
 ### Analog to Digital Converter.  
 
 The followng settings are for the Lynx Aurora 8, s/n 2714092190
