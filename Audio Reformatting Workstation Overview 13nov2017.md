@@ -89,11 +89,11 @@ The following diagrams illustrate the workstation equipment, signalflow, connect
 
 Workstation connections and signalflow.  
 
-![]().  
+![diagram](workstation_1.jpg).  
 
 Rack elevation, deck and headphone amp.  
 
-![]()
+![elevation](workstation_2.jpg)
 
 # Power-up Order   
 
@@ -146,11 +146,11 @@ The followng settings, and the quality assurance checklist, are for the Studer a
 The followng settings, and the quality assurance checklist, are for the Tascam 122MKIII, s/n 8900215 983. 
   
 Front panel.  
-![](). 
+![cass. front](122mkIII_front.jpg). 
   
   
 Rear panel.  
-![]()
+![cass. rear](122mkIII_rear.jpg)
 
 * Default deck settings
 
@@ -179,11 +179,11 @@ Rear panel.
 ### DAT deck.  
 
 Front panel.  
-![](). 
+![dat front](da60mkII_front.jpg). 
   
   
 Rear panel.  
-![]()
+![dat rear](da60mkII_rear.jpg)
 ### Analog to Digital Converter.  
 
 The followng settings are for the Lynx Aurora 8, s/n 2714092190
