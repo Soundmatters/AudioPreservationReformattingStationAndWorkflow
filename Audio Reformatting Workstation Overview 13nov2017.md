@@ -7,7 +7,7 @@
 
 # Workstation Overview
 
-The CUNY TV Archive audio workstation is designed to carry out the preservation-reformatting of the audio signal on three obsolete media types: 1/4-inch open-reel tape, compact cassette, and DAT. The proccesses it performs include playback, analog to digital conversion, bitstream capture, file encoding, and metadata related to digital provenance.  
+The CUNY TV Archive audio workstation is designed to carry out the preservation-reformatting of the audio signal carried on three obsolete media types: 1/4-inch open-reel tape, compact cassette, and DAT. The proccesses the workstation performs include playback, analog to digital conversion, bitstream capture, file encoding, and the creation of metadata related to digital provenance.  
 
 # Current Capabilities
 
@@ -16,33 +16,33 @@ The following is an overview of the workstation's technical capabilities:
 ### Open-reel tape, 1/4-inch
 
 Open-reel tape current playback capabilities:  
-
-* Two-track and half-track formatting.  
-* 7 1/2 and 15 ips speeds.  
-* NAB equalization
+  
+>* Two-track and half-track formatting.  
+>* 7 1/2 and 15 ips speeds.  
+>* NAB equalization
 
 Open-reel tape playback characteristics that may require additional equipment or outsourcing:  
   
-* Full-track, quarter-track and four-track formatting.   
-* 15/16, 1 7/8, 3 3/4, and 30 ips speed    
-* IEC, CCIR, Ampex and other non-NAB EQ pre-emphasis.  
-* Dolby A, Dolby B, Dolby S, Dolby SR and DBX noise reduction encoded
+>* Full-track, quarter-track and four-track formatting.   
+>* 15/16, 1 7/8, 3 3/4, and 30 ips speed    
+>* IEC, CCIR, Ampex and other non-NAB EQ pre-emphasis.  
+>* Dolby A, Dolby B, Dolby S, Dolby SR and DBX noise reduction encoded
 
 
 ### Compact Cassette
 
 Compact cassette current playback capabilities:  
 
-* Quarter-track formatting.  
-* 1 7/8 ips speed.   
-* Dolby B and Dolby C noise reduction encoded.   
-* Type I, Type II (III) , Type IV equalization pre-emphasis
+>* Quarter-track formatting.  
+>* 1 7/8 ips speed.   
+>* Dolby B and Dolby C noise reduction encoded.   
+>* Type I, Type II (III) , Type IV equalization pre-emphasis
 
 Compact Cassette tape playback characteristics that may require additional equipment or outsourcing:    
 
-* Half-track and four-track formatting.  
-* 3 3/4 ips speed.  
-* DBX noise reduction.  
+>* Half-track and four-track formatting.  
+>* 3 3/4 ips speed.  
+>* DBX noise reduction.  
 
 
 ### DAT
@@ -60,8 +60,8 @@ TBD
 
 Current analog to digital bitstream conversion capabilities:
 
-* 24 bit depth
-* 44.1, 48, 88.2, 96, 176.4, 192 kHz sample rate
+>* 24 bit depth
+>* 44.1, 48, 88.2, 96, 176.4, 192 kHz sample rate
 
 
 ### Capture and File encoding
@@ -69,17 +69,17 @@ Current analog to digital bitstream conversion capabilities:
 Current capture and file encoding capabilities:   
 
 
-* 8, 16, 24, 32 (float) bit depth.  
-* 8, 16, 11.052, 16, 22.05, 32, 44.1, 48, 64, 88.2, 96, 176.4, 192 k samle rate
-* .aif, .aiff, .aifc, .ape, .bwf, .flac, .mp2, .mp3, .mov, .ogg, .wav format
+>* 8, 16, 24, 32 (float) bit depth.  
+>* 8, 16, 11.052, 16, 22.05, 32, 44.1, 48, 64, 88.2, 96, 176.4, 192 k samle rate
+>* .aif, .aiff, .aifc, .ape, .bwf, .flac, .mp2, .mp3, .mov, .ogg, .wav format
 
 ### Monitoring. 
 
 Current monitoring capabilities include selectable audio at three stages of the signal chain via a headphone amplifier:
 
-* Lynx Aurora 8 Analog output
-* Playback deck Analog output (via the headphone jack)
-* Lynx Aroroa 8 Digital output
+>* Lynx Aurora 8 Analog output
+>* Playback deck Analog output (via the headphone jack)
+>* Lynx Aroroa 8 Digital output
 
 
 
@@ -99,11 +99,11 @@ Rack elevation, deck and headphone amp.
 
 To ensure safe operation of the equipment and the proper connections between digital devices, power-up the equipment in the following order:
 
-1. Furman power conditioner.  
-1. Lynx Aurora 8 ad/da converter.  
-1. Playback deck(s), as needed.  
-2. Ampex Headpod 4 headphone amp.
-1. Mac.  
+>1. Furman power conditioner.  
+>1. Lynx Aurora 8 ad/da converter.  
+>1. Playback deck(s), as needed.  
+>2. Ampex Headpod 4 headphone amp.
+>1. Mac.  
 
 # Deck Settings and Quality Assurance Check
 
