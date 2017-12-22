@@ -116,30 +116,30 @@ This section also contains a quality assurance checklist to help assure that eac
 
 The followng settings, and the quality assurance checklist, are for the Studer a80RC, s/n 5175
 
-* Default deck settings
+Open-reel deck default deck settings
 
-1. VU panel: Channel 1 REPROD switch in the IN position
-1. VU panel: Channel 2 REPROD switch in the IN position
-1. VU panel: monitor section REPRO/INPUT switch in the REPRO poition.  
-
-
-* Deck settings to be alligned with the media
-
-1. VU panel: Channel 1 UNCAL switch in the ON position (in) and aligned with the source
-1. VU panel: Channel 2 UNCAL switch in the ON position (in) and aligned with the source
-1. VU panel: Monitor section (right side of the VU panel) CH1/CH1-2/CH2 switches aligned with the source. 
-1. Transport panel: SPEED switch (OFF-7 1/2-15) aligned with source. 
-1. Transport panel: Press 0 to to zero-out the counter before the start of playback for each side of a reel to align with the source.  
-2. Transport panel: Align Reproduce Head AZIMUTH SCREW with the source
+>1. VU panel: Channel 1 REPROD switch in the IN position
+>1. VU panel: Channel 2 REPROD switch in the IN position
+>1. VU panel: monitor section REPRO/INPUT switch in the REPRO poition.  
 
 
-* Deck quality assurance checklist for the Studer a80RC
+Open-reel deck settings to be alligned with the media
 
-1. clean the erase, record, and reproduce heads, the capstan, the stationary posts, and roller guides with anhydrous isopropyl alcohol  
-1. clean the pinch roller with rubber cleaner  
-1. dust the transport with compressed air  
-1. degause the erase, record, and reproduce heads, the capstan, the stationary posts, and roller guides  
-1. align the deck and confirm its functionality with a reference tape
+>1. VU panel: Channel 1 UNCAL switch in the ON position (in) and aligned with the source
+>1. VU panel: Channel 2 UNCAL switch in the ON position (in) and aligned with the source
+>1. VU panel: Monitor section (right side of the VU panel) CH1/CH1-2/CH2 switches aligned with the source. 
+>1. Transport panel: SPEED switch (OFF-7 1/2-15) aligned with source. 
+>1. Transport panel: Press 0 to to zero-out the counter before the start of playback for each side of a reel to align with the source.  
+>2. Transport panel: Align Reproduce Head AZIMUTH SCREW with the source
+
+
+Quality assurance checklist for the Studer a80RC
+
+>1. clean the erase, record, and reproduce heads, the capstan, the stationary posts, and roller guides with anhydrous isopropyl alcohol  
+>1. clean the pinch roller with rubber cleaner  
+>1. dust the transport with compressed air  
+>1. degause the erase, record, and reproduce heads, the capstan, the stationary posts, and roller guides  
+>1. align the deck and confirm its functionality with a reference tape
 
 ### Cassette deck
 
@@ -152,28 +152,28 @@ Front panel.
 Rear panel.  
 ![cass. rear](122mkIII_rear.jpg)
 
-* Default deck settings
+Cassette deck default deck settings
 
-1. Rear Panel: INPUT switch in the BALANCED position
-1. Front Panel: MONITOR switch in the AUTO position
-1. Front Panel: MPX FILTER switch in the OFF position
+>1. Rear Panel: INPUT switch in the BALANCED position
+>1. Front Panel: MONITOR switch in the AUTO position
+>1. Front Panel: MPX FILTER switch in the OFF position
 
 
-* Deck settings to be alligned with the media
+Cassette deck settings to be alligned with the media
 
-1. Front Panel: PITCH CONTROL switch in the OFF position, re-set the switch to ON and align the deck with the source as needed  
-1. Front Panel:  RESET tape counter to zero-out the counter before the start of playback for each side of a cassette  
-1. Front Panel:  DOLBY NR switch is aligned with the source  
-1. Front Panel:  OUTPUT dial is aligned with calibration tones on the source.  When no reference tones are present on the source recording, load the reference tape and adjust the dial to align the output/VU meters with its tones
-2. 2. Front Panel: Align Record/Reproduce Head AZIMUTH with the source  
+>1. Front Panel: PITCH CONTROL switch in the OFF position, re-set the switch to ON and align the deck with the source as needed  
+>1. Front Panel:  RESET tape counter to zero-out the counter before the start of playback for each side of a cassette  
+>1. Front Panel:  DOLBY NR switch is aligned with the source  
+>1. Front Panel:  OUTPUT dial is aligned with calibration tones on the source.  When no reference tones are present on the source recording, load the reference tape and adjust the dial to align the output/VU meters with its tones
+>2. 2. Front Panel: Align Record/Reproduce Head AZIMUTH with the source  
 
-* Deck quality assurance checklist for the Tascam 122MKIII 
+Cassette deck quality assurance checklist for the Tascam 122MKIII 
 
-1. clean the erase and record/reproduce head, and the capstan with anhydrous isopropyl alcohol  
-1. clean the pinch roller with rubber cleaner  
-1. dust the transport with compressed air  
-1. degause the the erase and record/reproduce head, and the capstan  
-1. align the deck and confirm its functionality with a reference tape
+>1. clean the erase and record/reproduce head, and the capstan with anhydrous isopropyl alcohol  
+>1. clean the pinch roller with rubber cleaner  
+>1. dust the transport with compressed air  
+>1. degause the the erase and record/reproduce head, and the capstan  
+>1. align the deck and confirm its functionality with a reference tape
   
   
 ### DAT deck.  
