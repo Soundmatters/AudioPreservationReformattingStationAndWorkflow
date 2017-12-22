@@ -7,7 +7,7 @@
 
 # Workstation Overview
 
-The CUNY TV Archive audio workstation is designed to carry out the preservation-reformatting of the audio signal carried on three obsolete media types: 1/4-inch open-reel tape, compact cassette, and DAT. The proccesses the workstation performs include playback, analog to digital conversion, bitstream capture, file encoding, and the creation of metadata related to digital provenance.  
+The CUNY TV Archive audio workstation is designed to carry out the preservation-reformatting of the audio signal carried on three obsolete media types: 1/4-inch open-reel tape, compact cassette, and DAT. The proccesses that the workstation performs include playback, analog to digital conversion, bitstream capture, file encoding, and the creation of metadata related to digital provenance.  
 
 # Current Capabilities
 
@@ -77,10 +77,9 @@ Current capture and file encoding capabilities:
 
 Current monitoring capabilities include selectable audio at three stages of the signal chain via a headphone amplifier:
 
->* Lynx Aurora 8 Analog output
->* Playback deck Analog output (via the headphone jack)
->* Lynx Aroroa 8 Digital output
-
+>* AD/DA Analog output. 
+>* AD/DA Digital output.
+>* Playback eck Analog output (via the headphone jack). 
 
 
 # Workstation Diagram, Rack Elevation and Connections.  
@@ -197,12 +196,18 @@ Analog I/O
 3. LOCAL TRIM: Set to +4DBU 
 4. POWER UP MODE: Set to STAND BY.  
 1. LSLOT CHANNEL MODE: Set to 8-CHANNEL.  
+  
+  
+  
+
 
 Digital I/O
 
 1. TO ANALOG OUT: Set to ANALOG IN.    
 1. TO DIGITAL OUT: Set to ANALOG INn.    
 1. LSLOT RECORD 1-8 SOURCE: Set to ANALOG IN 1-8  
+  
+   
 
 * settings to be alligned with the media
 ADD IMAGE
