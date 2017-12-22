@@ -115,7 +115,7 @@ This section also contains a quality assurance checklist to help assure that eac
 
 The followng settings, and the quality assurance checklist, are for the Studer a80RC, s/n 5175
 
-Open-reel deck default deck settings
+Open-reel deck default settings
 
 >1. VU panel: Channel 1 REPROD switch in the IN position
 >1. VU panel: Channel 2 REPROD switch in the IN position
@@ -151,7 +151,7 @@ Front panel.
 Rear panel.  
 ![cass. rear](122mkIII_rear.jpg)
 
-Cassette deck default deck settings
+Cassette deck default settings
 
 >1. Rear Panel: INPUT switch in the BALANCED position
 >1. Front Panel: MONITOR switch in the AUTO position
@@ -187,30 +187,31 @@ Rear panel.
 
 The followng settings are for the Lynx Aurora 8, s/n 2714092190
 
-* default settings (found on the Lynx Aurora Remote Control application: Applications > Aurora)
+Analog to Digital Converter default settings (found on the Lynx Aurora Remote Control application: Applications > Aurora)
 
 Analog I/O
   
-1. TRIM: Set to +4DBU     
-2. TRIM ORIGIN: Set to REMOTE.  
-3. LOCAL TRIM: Set to +4DBU 
-4. POWER UP MODE: Set to STAND BY.  
-1. LSLOT CHANNEL MODE: Set to 8-CHANNEL.  
+>1. TRIM: Set to +4DBU     
+>2. TRIM ORIGIN: Set to REMOTE.  
+>3. LOCAL TRIM: Set to +4DBU 
+>4. POWER UP MODE: Set to STAND BY.  
+>1. LSLOT CHANNEL MODE: Set to 8-CHANNEL.  
   
-  
-  
+Lynx Aurora Remote Control Analog I/O Window.  
+
+  ![analog_mislabeled](lynx_digi.jpg). 
 
 
 Digital I/O
 
-1. TO ANALOG OUT: Set to ANALOG IN.    
-1. TO DIGITAL OUT: Set to ANALOG INn.    
-1. LSLOT RECORD 1-8 SOURCE: Set to ANALOG IN 1-8  
+>1. TO ANALOG OUT: Set to ANALOG IN.    
+>1. TO DIGITAL OUT: Set to ANALOG INn.    
+>1. LSLOT RECORD 1-8 SOURCE: Set to ANALOG IN 1-8  
   
-   
+Lynx Aurora Remote Control Digital I/O Window.
+  ![digital_mislabeled](lynx_analog.jpg). 
 
-* settings to be alligned with the media
-ADD IMAGE
+Analog to Digital Converter settings to be alligned with the media
 
 Digital I/O.  
 
@@ -219,7 +220,6 @@ Digital I/O.
 1. Meter SOURCE: align for Analog or Digital sources.  
 
 *These Digital I/O settings can be configured via the Mac utility Audio Devices (Utilities > Audio MIDI Setup), or via the Adobe Audition preferences (Adobe Audition CC > Preferences > Audio Hardware).
-ADD IMAGE
 
 
 ### Computer
