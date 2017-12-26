@@ -315,7 +315,7 @@ Treatments are guided by the AIC Code of Ethics and Guidelines for Practice. [GE
 
 TBD
 
-# Audio Preservation Master File Specifications
+# Audio Preservation Master Productions and File Specifications
 
 The Audio Preservation Master File is the highest-level digital derivative of an archive original recording.  It is produced to represent a complete and unmodified copy of the archive original recording's signal, and so is produced free of signal processing, editing, equalization, level adjustment, and sonic restoration.
 
@@ -348,7 +348,7 @@ For the reformatting of **digital** archive original recordings.
 
 
 
-# Audio [Presentation] Master File Specifications. (FIX ALL OF THIS SECTION)
+# Audio [Presentation] Master Production and File Specifications. (FIX ALL OF THIS SECTION)
 
 
 The Audio [Presentation] Master file is a digital reconstruction of an original asset.  It is produced from one or more Audio Preservation Master files, and is created to reconstruct an asset, optimize program continuity, provide access to the asset, and to correct excessive sonic distortion in the original signal.  The Audio [Presentation] Master file is not necessarily a full restoration. [FIX THIS}
