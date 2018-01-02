@@ -85,8 +85,7 @@ Current monitoring capabilities include selectable audio at three stages of the 
 # Workstation Diagram, Rack Elevation and Connections.  
 
 The following diagrams illustrate the workstation equipment, signalflow, connections, and cables.   
-
-Workstation connections and signalflow.  
+ 
 
 ![diagram](workstation_1.jpg).  
 
@@ -106,7 +105,7 @@ To ensure safe operation of the equipment and the proper connections between dig
 
 # Deck Settings and Quality Assurance Check
 
-The following is a review of the settings for each device in the workstation.  It covers two types of settings: 1) Default, which are permanent and do not require adjustment, and 2) Alligned, which are adjusted to accomodate the recording charecteristics of each object being reformatted.
+The following is a review of the major settings for each device in the workstation.  It covers two types of settings: 1) Default, which are permanent and do not require adjustment, and 2) Alligned, which are adjusted to accomodate the recording charecteristics of each object being reformatted.
 
 This section also contains a quality assurance checklist to help assure that each device is operating properly.
 
