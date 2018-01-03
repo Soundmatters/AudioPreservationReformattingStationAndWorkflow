@@ -229,7 +229,8 @@ The followng settings are for the Mac OS Sierra v10.12, s/n C02NW4V8FY14
 
 1. System Preferences > Sound.     
 Input: Set to LYNX AURORA USB.  
-Output: Set to    FIX THIS.    
+Output: Set to    FIX THIS.   
+![]()
 
 ADD IMAGE
 
