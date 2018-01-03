@@ -77,19 +77,19 @@ Current capture and file encoding capabilities:
 
 Current capabilities include selectable audio monitoring at three stages of the signal chain via a headphone amplifier:
 
->* AD/DA Analog output. 
->* AD/DA Digital output.
->* Playback eck Analog output (via the headphone jack). 
+>* AD/DA, Analog output. 
+>* AD/DA, Digital output.
+>* Playback deck, Analog output (via the headphone jack). 
 
 
 # Workstation Diagram, Connections and Rack Elevation.  
 
 The following diagrams illustrate the workstation equipment, signalflow, connections, and cables types.   
  
-*Diagram and Connections.*
+*Diagram and Connections.*  
 ![diagram](workstation_1.jpg).  
 
-*Rack elevation, open-reel deck and headphone amp.*  
+*Rack elevation, open-reel deck and headphone amp.*. 
 ![elevation](workstation_2.jpg)
 
 # Power-up Order   
@@ -127,19 +127,19 @@ Open-reel deck; settings alligned with the media
 >1. VU panel: Monitor section (right side of the VU panel) CH1/CH1-2/CH2 switches aligned with the source. 
 >1. Transport panel: SPEED switch (OFF-7 1/2-15) aligned with source. 
 >1. Transport panel: Press 0 to to zero-out the counter before the start of playback for each side of a reel to align with the source.  
->2. Transport panel: Align Reproduce Head AZIMUTH SCREW with the source
-   
-   *VU panel: Chanel 1 settings*. 
- [](studer_1.jpg).  
+>2. Transport panel: Align Reproduce Head AZIMUTH SCREW with the source. 
+
+*VU panel: Chanel 1 settings*. 
+![](studer_1.jpg).   
  
-  *VU panel: Monitor settings*.  
- [](studer_2.jpg).   
+ *VU panel: Monitor settings*.  
+![](studer_2.jpg).  
  
  *Transport panel: Power and speed settings*
- [](studer_3.jpg).   
-   
-   *Transport panel: Reproduce head azimuth setting*
- [](studer_4.jpg).  
+![](studer_3.jpg).  
+ 
+ *Transport panel: Reproduce head azimuth setting*
+![](studer_4.jpg).  
  
 
 Quality assurance checklist for the Studer a80RC
@@ -154,11 +154,11 @@ Quality assurance checklist for the Studer a80RC
 
 The followng settings, and the quality assurance checklist, are for the Tascam 122MKIII, s/n 8900215 983. 
   
-Front panel.  
+*Front panel.*  
 ![cass. front](122mkIII_front.jpg). 
   
   
-Rear panel.  
+*Rear panel.*  
 ![cass. rear](122mkIII_rear.jpg)
 
 Cassette deck default settings
