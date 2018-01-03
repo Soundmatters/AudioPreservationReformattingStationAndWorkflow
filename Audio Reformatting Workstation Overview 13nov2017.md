@@ -86,10 +86,10 @@ Current capabilities include selectable audio monitoring at three stages of the 
 
 The following diagrams illustrate the workstation equipment, signalflow, connections, and cables types.   
  
-*Diagram and Connections*
+*Diagram and Connections.*
 ![diagram](workstation_1.jpg).  
 
-*Rack elevation, open-reel deck and headphone amp*  
+*Rack elevation, open-reel deck and headphone amp.*  
 ![elevation](workstation_2.jpg)
 
 # Power-up Order   
@@ -113,14 +113,14 @@ This section also contains a quality assurance checklist to help assure that eac
 
 The followng settings, and the quality assurance checklist, are for the Studer a80RC, s/n 5175
 
-Open-reel deck default settings
+Open-reel deck: default settings
 
 >1. VU panel: Channel 1 REPROD switch in the IN position
 >1. VU panel: Channel 2 REPROD switch in the IN position
 >1. VU panel: monitor section REPRO/INPUT switch in the REPRO poition.  
 
 
-Open-reel deck settings to be alligned with the media
+Open-reel deck; settings alligned with the media
 
 >1. VU panel: Channel 1 UNCAL switch in the ON position (in) and aligned with the source
 >1. VU panel: Channel 2 UNCAL switch in the ON position (in) and aligned with the source
@@ -128,13 +128,17 @@ Open-reel deck settings to be alligned with the media
 >1. Transport panel: SPEED switch (OFF-7 1/2-15) aligned with source. 
 >1. Transport panel: Press 0 to to zero-out the counter before the start of playback for each side of a reel to align with the source.  
 >2. Transport panel: Align Reproduce Head AZIMUTH SCREW with the source
-  
- [](studer_1.jpg).  
+   
+   *VU panel: Chanel 1 settings*. 
+ [](studer_1.jpg).  
  
- [](studer_2.jpg).  
+  *VU panel: Monitor settings*.  
+ [](studer_2.jpg).   
  
- [](studer_3.jpg).  
- 
+ *Transport panel: Power and speed settings*
+ [](studer_3.jpg).   
+   
+   *Transport panel: Reproduce head azimuth setting*
  [](studer_4.jpg).  
  
 
