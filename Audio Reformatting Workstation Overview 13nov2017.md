@@ -210,10 +210,6 @@ Analog I/O
 >4. POWER UP MODE: Set to STAND BY.  
 >1. LSLOT CHANNEL MODE: Set to 8-CHANNEL.  
   
-Lynx Aurora Remote Control Analog I/O Window.  
-
-  ![analog_mislabeled](lynx_digi.jpg). 
-
 
 Digital I/O
 
@@ -221,9 +217,6 @@ Digital I/O
 >1. TO DIGITAL OUT: Set to ANALOG INn.    
 >1. LSLOT RECORD 1-8 SOURCE: Set to ANALOG IN 1-8  
   
-Lynx Aurora Remote Control Digital I/O Window.
-  ![digital_mislabeled](lynx_analog.jpg). 
-
 Analog to Digital Converter settings to be alligned with the media
 
 Digital I/O.  
@@ -234,6 +227,13 @@ Digital I/O.
 
 *These Digital I/O settings can be configured via the Mac utility Audio Devices (Utilities > Audio MIDI Setup), or via the Adobe Audition preferences (Adobe Audition CC > Preferences > Audio Hardware).
 
+*Analog I/O Window.*  
+
+![](lynx_analog.jpg).  
+
+*Digital I/O Window.*  
+
+![](lynx_digi.jpg).  
 
 ### Computer
 
