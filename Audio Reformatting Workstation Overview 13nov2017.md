@@ -154,16 +154,7 @@ Quality assurance checklist for the Studer a80RC
 
 The followng settings, and the quality assurance checklist, are for the Tascam 122MKIII, s/n 8900215 983. 
   
-*Front panel, left side.*  
-![](FrontPanel_left.jpg).   
-
-*Front panel, right side.*  
-![](FrontPanel_right.jpg). 
   
-  
-*Rear panel.*  
-![](RearPanel_left.jpg)
-
 Cassette deck default settings
 
 >1. Rear Panel: INPUT switch in the BALANCED position
@@ -178,6 +169,16 @@ Cassette deck settings to be alligned with the media
 >1. Front Panel:  DOLBY NR switch is aligned with the source  
 >1. Front Panel:  OUTPUT dial is aligned with calibration tones on the source.  When no reference tones are present on the source recording, load the reference tape and adjust the dial to align the output/VU meters with its tones
 >2. 2. Front Panel: Align Record/Reproduce Head AZIMUTH with the source  
+  
+  
+*Front panel, left side.*  
+![](FrontPanel_left.jpg).   
+
+*Front panel, right side.*  
+![](FrontPanel_right.jpg). 
+  
+*Rear panel.*  
+![](RearPanel_left.jpg). 
 
 Cassette deck quality assurance checklist for the Tascam 122MKIII 
 
@@ -190,17 +191,17 @@ Cassette deck quality assurance checklist for the Tascam 122MKIII
   
 ### DAT deck.  
 
-Front panel.  
+*Front panel.*  
 ![dat front](da60mkII_front.jpg). 
   
   
-Rear panel.  
-![dat rear](da60mkII_rear.jpg)
-### Analog to Digital Converter.  
+*Rear panel.*  
+![dat rear](da60mkII_rear.jpg). 
+### Analog to Digital Converter.  
 
 The followng settings are for the Lynx Aurora 8, s/n 2714092190
 
-Analog to Digital Converter default settings (found on the Lynx Aurora Remote Control application: Applications > Aurora)
+Analog to Digital Converter settings (found on the Lynx Aurora Remote Control application: Applications > Aurora)
 
 Analog I/O
   
@@ -210,7 +211,6 @@ Analog I/O
 >4. POWER UP MODE: Set to STAND BY.  
 >1. LSLOT CHANNEL MODE: Set to 8-CHANNEL.  
   
-
 Digital I/O
 
 >1. TO ANALOG OUT: Set to ANALOG IN.    
@@ -221,9 +221,9 @@ Analog to Digital Converter settings to be alligned with the media
 
 Digital I/O.  
 
-1. SYNC SOURCE*: Set to INTERNAL for analog sources; EXTERNAL for digital sources. 
-1. SAMPLE RATE*: 96KHZ for analog sources; n/a for digital sources.  
-1. Meter SOURCE: align for Analog or Digital sources.  
+>1. SYNC SOURCE*: Set to INTERNAL for analog sources; EXTERNAL for digital sources. 
+>1. SAMPLE RATE*: 96KHZ for analog sources; n/a for digital sources.  
+>1. Meter SOURCE: align for Analog or Digital sources.  
 
 *These Digital I/O settings can be configured via the Mac utility Audio Devices (Utilities > Audio MIDI Setup), or via the Adobe Audition preferences (Adobe Audition CC > Preferences > Audio Hardware).
 
@@ -244,6 +244,7 @@ The followng settings are for the Mac OS Sierra v10.12, s/n C02NW4V8FY14
 1. System Preferences > Sound.     
 Input: Set to LYNX AURORA USB.  
 Output: Set to    FIX THIS.   
+
 ![](sound_1.jpg). 
 ![](sound_2.jpg)
 
