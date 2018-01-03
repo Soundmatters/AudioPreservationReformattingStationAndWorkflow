@@ -113,14 +113,14 @@ This section also contains a quality assurance checklist to help assure that eac
 
 The followng settings, and the quality assurance checklist, are for the Studer a80RC, s/n 5175
 
-Open-reel deck: default settings
+#### Open-reel deck: default settings
 
 >1. VU panel: Channel 1 REPROD switch in the IN position
 >1. VU panel: Channel 2 REPROD switch in the IN position
 >1. VU panel: monitor section REPRO/INPUT switch in the REPRO poition.  
 
 
-Open-reel deck; settings alligned with the media
+#### Open-reel deck; settings alligned with the media
 
 >1. VU panel: Channel 1 UNCAL switch in the ON position (in) and aligned with the source
 >1. VU panel: Channel 2 UNCAL switch in the ON position (in) and aligned with the source
@@ -142,7 +142,7 @@ Open-reel deck; settings alligned with the media
 ![](studer_4.jpg).  
  
 
-Quality assurance checklist for the Studer a80RC
+#### Quality assurance checklist for the Studer a80RC
 
 >1. clean the erase, record, and reproduce heads, the capstan, the stationary posts, and roller guides with anhydrous isopropyl alcohol  
 >1. clean the pinch roller with rubber cleaner  
@@ -155,14 +155,14 @@ Quality assurance checklist for the Studer a80RC
 The followng settings, and the quality assurance checklist, are for the Tascam 122MKIII, s/n 8900215 983. 
   
   
-Cassette deck default settings
+#### Cassette deck: default settings
 
 >1. Rear Panel: INPUT switch in the BALANCED position
 >1. Front Panel: MONITOR switch in the AUTO position
 >1. Front Panel: MPX FILTER switch in the OFF position
 
 
-Cassette deck settings to be alligned with the media
+#### Cassette deck: settings to be alligned with the media
 
 >1. Front Panel: PITCH CONTROL switch in the OFF position, re-set the switch to ON and align the deck with the source as needed  
 >1. Front Panel:  RESET tape counter to zero-out the counter before the start of playback for each side of a cassette  
@@ -180,7 +180,7 @@ Cassette deck settings to be alligned with the media
 *Rear panel.*  
 ![](RearPanel_left.jpg). 
 
-Cassette deck quality assurance checklist for the Tascam 122MKIII 
+#### Cassette deck quality assurance checklist for the Tascam 122MKIII 
 
 >1. clean the erase and record/reproduce head, and the capstan with anhydrous isopropyl alcohol  
 >1. clean the pinch roller with rubber cleaner  
@@ -203,6 +203,8 @@ The followng settings are for the Lynx Aurora 8, s/n 2714092190
 
 Analog to Digital Converter settings (found on the Lynx Aurora Remote Control application: Applications > Aurora)
 
+#### Converter: default settings. 
+
 Analog I/O
   
 >1. TRIM: Set to +4DBU     
@@ -217,7 +219,7 @@ Digital I/O
 >1. TO DIGITAL OUT: Set to ANALOG INn.    
 >1. LSLOT RECORD 1-8 SOURCE: Set to ANALOG IN 1-8  
   
-Analog to Digital Converter settings to be alligned with the media
+#### Converter: settings to be alligned with the media
 
 Digital I/O.  
 
@@ -225,7 +227,7 @@ Digital I/O.
 >1. SAMPLE RATE*: 96KHZ for analog sources; n/a for digital sources.  
 >1. Meter SOURCE: align for Analog or Digital sources.  
 
-*These Digital I/O settings can be configured via the Mac utility Audio Devices (Utilities > Audio MIDI Setup), or via the Adobe Audition preferences (Adobe Audition CC > Preferences > Audio Hardware).
+*These Digital I/O settings can be configured and aligned via the Mac utility Audio Devices (Utilities > Audio MIDI Setup), or via the Adobe Audition preferences (Adobe Audition CC > Preferences > Audio Hardware).
 
 *Analog I/O Window.*  
 
