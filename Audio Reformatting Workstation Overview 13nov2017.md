@@ -15,13 +15,13 @@ The following is an overview of the workstation's technical capabilities:
 
 ### Open-reel tape, 1/4-inch
 
-Open-reel tape current playback capabilities:  
+Current playback capabilities:  
   
 >* Two-track and half-track formatting.  
 >* 7 1/2 and 15 ips speeds.  
 >* NAB equalization
 
-Open-reel tape playback characteristics that may require additional equipment or outsourcing:  
+Playback characteristics that may require additional equipment or outsourcing:  
   
 >* Full-track, quarter-track and four-track formatting.   
 >* 15/16, 1 7/8, 3 3/4, and 30 ips speed    
@@ -31,14 +31,14 @@ Open-reel tape playback characteristics that may require additional equipment or
 
 ### Compact Cassette
 
-Compact cassette current playback capabilities:  
+Current playback capabilities:   
 
 >* Quarter-track formatting.  
 >* 1 7/8 ips speed.   
 >* Dolby B and Dolby C noise reduction encoded.   
 >* Type I, Type II (III) , Type IV equalization pre-emphasis
 
-Compact Cassette tape playback characteristics that may require additional equipment or outsourcing:    
+Playback characteristics that may require additional equipment or outsourcing:    
 
 >* Half-track and four-track formatting.  
 >* 3 3/4 ips speed.  
@@ -47,18 +47,18 @@ Compact Cassette tape playback characteristics that may require additional equip
 
 ### DAT
 
-DAT current playback capabilities:   
+Current playback capabilities:     
 
 TBD
 
-DAT playback characteristics that will require additional equipment or outsourcing:    
+Playback characteristics that may require additional equipment or outsourcing:      
 
 TBD
 
 ### Analog to Digital Conversion
 
 
-Current analog to digital bitstream conversion capabilities:
+Current conversion capabilities:
 
 >* 24 bit depth
 >* 44.1, 48, 88.2, 96, 176.4, 192 kHz sample rate
@@ -75,7 +75,7 @@ Current capture and file encoding capabilities:
 
 ### Monitoring. 
 
-Current monitoring capabilities include selectable audio at three stages of the signal chain via a headphone amplifier:
+Current capabilities include selectable audio monitoring at three stages of the signal chain via a headphone amplifier:
 
 >* AD/DA Analog output. 
 >* AD/DA Digital output.
@@ -84,12 +84,12 @@ Current monitoring capabilities include selectable audio at three stages of the 
 
 # Workstation Diagram, Rack Elevation and Connections.  
 
-The following diagrams illustrate the workstation equipment, signalflow, connections, and cables.   
+The following diagrams illustrate the workstation equipment, signalflow, connections, and cables types.   
  
 
 ![diagram](workstation_1.jpg).  
 
-Rack elevation, deck and headphone amp.  
+*Rack elevation, open-reel deck and headphone amp*  
 
 ![elevation](workstation_2.jpg)
 
