@@ -130,10 +130,14 @@ Open-reel deck settings to be alligned with the media
 >1. Transport panel: Press 0 to to zero-out the counter before the start of playback for each side of a reel to align with the source.  
 >2. Transport panel: Align Reproduce Head AZIMUTH SCREW with the source
   
- [](studer_1.jpg).  
+ [](studer_1.jpg).  
+ 
  [](studer_2.jpg).  
+ 
  [](studer_3.jpg).  
- [](studer_4.jpg).
+ 
+ [](studer_4.jpg).  
+ 
 
 Quality assurance checklist for the Studer a80RC
 
