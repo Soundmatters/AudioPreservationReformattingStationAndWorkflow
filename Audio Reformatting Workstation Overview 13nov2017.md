@@ -154,12 +154,15 @@ Quality assurance checklist for the Studer a80RC
 
 The followng settings, and the quality assurance checklist, are for the Tascam 122MKIII, s/n 8900215 983. 
   
-*Front panel.*  
-![cass. front](122mkIII_front.jpg). 
+*Front panel, left side.*  
+![](FrontPanel_left.jpg).   
+
+*Front panel, right side.*  
+![](FrontPanel_right.jpg). 
   
   
 *Rear panel.*  
-![cass. rear](122mkIII_rear.jpg)
+![](RearPanel_left.jpg)
 
 Cassette deck default settings
 
