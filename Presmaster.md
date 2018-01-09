@@ -27,6 +27,12 @@ For the reformatting of **digital** archive original recordings.
 * Bit depth equal to the archive original recording’s bit depth [yes?]  
 * One or two-channel file as appropriate [yes?]
 
+### File-naming conventions.  
 
+Audio Preservation Master Files will be named using the following convention:
+
+* Format identifier + Face identifier + Region identifier (optional as needed) + file extension
+
+	Example:	HBG00006_01.wav
 
 
