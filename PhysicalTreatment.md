@@ -1,6 +1,6 @@
 # Physical Treatment of the Archive Original Recording
 
-To assure optimal signal extraction from the archive original recording, and the protection and viability of the media and the playback deck, media is checked for conditions that may require treatment prior to transfer.   
+To assure optimal signal extraction from the archive original recording, the viability of the media, and the saftey of the playback deck, media is checked for conditions that may require treatment prior to transfer.   
 
 Treatments are guided by the AIC Code of Ethics and Guidelines for Practice. [GET. THE LINK]
 
