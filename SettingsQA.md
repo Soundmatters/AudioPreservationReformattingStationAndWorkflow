@@ -180,7 +180,7 @@ Spectral Displays.
 
 The followng settings are for the Aphex Headpod 4, s/n 1450. 
 
-![](aphex_1.jpg)
+![](aphex_1.png)
 
 * default settings.  
 
