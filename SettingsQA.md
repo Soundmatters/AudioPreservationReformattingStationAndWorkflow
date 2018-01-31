@@ -1,4 +1,4 @@
-# Deck Settings and Quality Assurance Check
+# Device Settings and Quality Assurance Checks
 
 The following is a review of the major settings for each device in the workstation.  It covers two types of settings: 1) Default, which are permanent and do not require adjustment, and 2) Alligned, which are adjusted to accomodate the recording charecteristics of each object being reformatted.
 
@@ -165,15 +165,31 @@ Lynx Aurora, Input:  Set FORMAT to 96,000 Hz for analog sources; align with te s
 
 The followng settings are for the Adobe Audition CC, 2017.1.1 release
 
-* default settings.  
+
 Applications > Adobe Audition CC 2017.  
+ 
 
-Audio Channel mapping.  
-Audio Hardware.  
-Spectral Displays.  
+Preferences > Audio Channel Mapping
+* default settings.
+* settings to be alligned with the media. 
+<p align="center"><img src="pref_mapping.jpg" /></p>.
+
+Preferences > Audio Hardware. 
+* default settings.
+* settings to be alligned with the media. 
+<p align="center"><img src="pref_hardware.jpg" /></p>.
+
+Preferences > Markers & Metadata. 
+* default settings.
+* settings to be alligned with the media. 
+<p align="center"><img src="pref_markers.jpg" /></p>.
+
+Preferences > Spectral Displays.  
+* default settings.
+* settings to be alligned with the media. 
+<p align="center"><img src="pref_spectral.jpg" /></p>.
 
 
-* settings to be alligned with the media
 * quality assurance  
 
 ### Headphone amp.  
