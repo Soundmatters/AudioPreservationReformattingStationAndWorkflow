@@ -81,7 +81,7 @@ Current capabilities include selectable audio monitoring at three stages of the 
 The following diagrams illustrate the workstation equipment, signalflow, connections, and cables types.   
  
 *Diagram and Connections.*  
-![diagram](workstation_1.jpg).  
+![diagram](workstationdiagram.jpg).  
 
 *Rack elevation, open-reel deck and headphone amp.*. 
 ![elevation](workstation_2.jpg)
