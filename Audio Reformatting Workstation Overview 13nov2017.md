@@ -90,7 +90,7 @@ The following diagrams illustrate the workstation equipment, signalflow, connect
 ![diagram](workstation_1.jpg).  
 
 *Rack elevation, open-reel deck and headphone amp.*. 
-![elevation](workstation_2.jpg)
+![elevation](workstation_2.pdf)
 
 # Power-up Order   
 
