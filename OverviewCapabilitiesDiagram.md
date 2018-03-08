@@ -87,4 +87,4 @@ The following diagrams illustrate the workstation equipment, signalflow, connect
 <p align="center"><img src="workstation_1.jpg" /></p>  
 
 *Diagram 3, Open-reel decks and headphone amp.*. 
-![elevation](workstation_2.jpg)
+<p align="center"><img src="workstation_2.jpg" /></p> 
