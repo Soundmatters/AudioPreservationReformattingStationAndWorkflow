@@ -12,14 +12,14 @@ The following is an overview of the workstation's technical capabilities:
 Current playback capabilities:  
   
   * Two-track and half-track formatting.  
-  * 7 1/2 and 15 ips speeds.  
-  * NAB equalization
+  * 3 3/4, 7 1/2, and 15 ips speeds.  
+  * NAB and IEC equalization
 
 Playback characteristics that may require additional equipment or outsourcing:  
   
   * Full-track, quarter-track and four-track formatting.   
-  * 15/16, 1 7/8, 3 3/4, and 30 ips speed    
-  * IEC, CCIR, Ampex and other non-NAB EQ pre-emphasis.  
+  * 15/16, 1 7/8, and 30 ips speed    
+  * Ampex and other non-NAB or IEC EQ pre-emphasis.  
   * Dolby A, Dolby B, Dolby S, Dolby SR and DBX noise reduction encoded
 
 
